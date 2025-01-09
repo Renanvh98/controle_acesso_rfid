@@ -16,7 +16,7 @@ O principal objetivo deste projeto é aprender a integrar hardware (leitor RFID)
 
 ## Créditos
 
-Este código foi desenvolvido como parte do curso [Nome do Curso]. O código foi adaptado e modificado para fins de aprendizado.
+Este código foi desenvolvido como parte do curso RaspberryPI. O código foi adaptado e modificado para fins de aprendizado.
 
 ## Tecnologias
 
